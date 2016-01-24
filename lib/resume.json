@@ -1,0 +1,106 @@
+{
+  "basicInfo": {
+    "title": "基本信息",
+    "data": {
+       "name": {
+          "key": "姓名",
+          "val": "卢惠健"
+       },
+       "sex": {
+          "key": "性别",
+          "val": "男"
+       },
+       "birthday": {
+          "key": "生日",
+          "val": "1994-05-01"
+       },
+       "record": {
+          "key": "学历",
+          "val": "本科"
+       },
+       "profession": {
+          "key": "专业",
+          "val": "计算机科学与技术"
+       },
+       "university": {
+          "key": "大学",
+          "val": "南京信息工程大学"
+       },
+       "weibo": {
+          "key": "微博",
+          "val": "@_杂烩乱炖"
+       },
+       "blog": {
+          "key": "博客",
+          "val": "luhuijian.me"
+       },
+       "github": {
+          "key": "Github",
+          "val": "https://github.com/luxiaojian"
+       },
+       "weibo": {
+          "key": "微博",
+          "val": "@_杂烩乱炖"
+       },
+       "city": {
+          "key": "期望城市",
+          "val": "杭州，上海，南京~~"
+       },
+       "work": {
+          "key": "期望职位",
+          "val": "Javasript工程师, Nodejs工程师"
+       }
+    }
+  },
+  "contact": {
+    "title": "联系方式",
+    "data": {
+      "mobile": {
+         "key": "手机",
+         "val": "15651006359"
+      },
+      "email": {
+         "key": "email",
+         "val": "luhuijian@duohuo.org"
+      },
+      "QQ": {
+         "key": "QQ",
+         "val": "952825836"
+      }
+    }
+  },
+  "itSkill": {
+    "title": "技能清单",
+    "data": {
+      "backend": {
+        "key": "后端",
+        "val": "Nodejs- express, koa"
+      },
+
+      "frontend": {
+        "key": "前端",
+        "val": "angularjs/react/vue.js"
+      },
+
+      "buildTool": {
+        "key": "构建工具",
+        "val": "gulp/webpack"
+      },
+
+      "database": {
+        "key": "数据库",
+        "val": "mysql/redis/mongodb"
+      },
+
+      "versionControl": {
+        "key": "版本控制工具",
+        "val": "git"
+      },
+
+      "designTool": {
+        "key": "设计工具",
+        "val": "sketch/photoshop"
+      }
+    }
+  }
+}

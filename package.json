@@ -1,0 +1,22 @@
+{
+  "name": "lhj",
+  "version": "1.0.0",
+  "description": "my personal resume",
+  "main": "bin/lhj.js",
+  "bin": {
+    "lhj": "bin/lhj.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luxiaojian/resume.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luxiaojian luhuijian@duohuo.org",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "chalk": "^1.1.1"
+  }
+}
