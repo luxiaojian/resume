@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "my personal resume",
   "main": "bin/lhj.js",
+  "keywords": [
+    "command-cli",
+    "resume"
+  ],
   "bin": {
     "lhj": "bin/lhj.js"
   },
